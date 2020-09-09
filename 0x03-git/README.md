@@ -1,6 +1,6 @@
 # Practicing Git through the command line
 
-This is good practice for using Git in the command line.
+This is good practice for using Git in the command line. This was changed from github!
 
 ## How can you practice this same project?
 
