@@ -1,4 +1,4 @@
-#### Git Practice
+# Git Practice
 
 This is good practice for using Git and GitHub.
 
