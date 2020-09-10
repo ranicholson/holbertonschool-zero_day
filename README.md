@@ -1,6 +1,6 @@
 # Git Practice
 
-This is good practice for using Git and GitHub.
+This is good practice for using Git and GitHub. Even more fun things have been added other than Git and Github!
 
 ## How can you practice this same project?
 
